@@ -91,7 +91,7 @@ st.text(f"{the_time}")
 st.header("Trabajar con archivos de imagenes, audio o videos")
 #Images
 st.subheader("Archivo de imagen")
-img = Image.open("C:/Users/Santiago/Downloads/Screenshot 2023-11-22 170014.png")
+img = Image.open(""C:\Users\jum73\Pictures\f30e21da146bd3501555eec943a8898e.gif"")
 st.image(img, width=300, caption="Simple Imagen")
 
 st.header("Otras opciones que permite la función write")
